@@ -79,8 +79,6 @@ The program checks that:
 
 ## Output
 
-Add your screenshots in this section later.
-
 ### Example 1 (Mandatory Version)
 
 <img width="1358" height="509" alt="image" src="https://github.com/user-attachments/assets/14c53bbc-0207-4f86-a97a-74f3272723f7" />
