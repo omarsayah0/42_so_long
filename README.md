@@ -81,15 +81,15 @@ The program checks that:
 
 Add your screenshots in this section later.
 
-### Example 1 (Mand)
+### Example 1 (Mandatory Version)
 
 <img width="1358" height="509" alt="image" src="https://github.com/user-attachments/assets/14c53bbc-0207-4f86-a97a-74f3272723f7" />
 
-### Example 2 (After collect everything the door opens)
+### Example 2 (Exit Opens After Collecting All Items)
 <img width="1350" height="500" alt="image" src="https://github.com/user-attachments/assets/08301878-df4b-43c3-9b41-d90f15a85c0f" />
 
 
-### Example 3 (Bonus)
+### Example 3 (Bonus Version)
 <img width="1912" height="783" alt="image" src="https://github.com/user-attachments/assets/ee176d46-e7cf-4014-95b1-3d664ba86192" />
 
 
